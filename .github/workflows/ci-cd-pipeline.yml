@@ -51,7 +51,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Start Application
-        shell: pwsh
+        shell: powershell
         run: |
           if (-Not (pm2 restart app.js -ErrorAction SilentlyContinue)) {
             pm2 start app.js

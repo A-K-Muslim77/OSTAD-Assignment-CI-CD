@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "A-K-Muslim77/OSTAD-Assignment-CI-CD",
+  "pipelineDirectory": "OSTAD-Assignment-CI-CD",
+  "workspaceDirectory": "OSTAD-Assignment-CI-CD\\OSTAD-Assignment-CI-CD",
+  "repositories": {
+    "A-K-Muslim77/OSTAD-Assignment-CI-CD": {
+      "repositoryPath": "OSTAD-Assignment-CI-CD\\OSTAD-Assignment-CI-CD",
+      "lastRunOn": "03/14/2025 00:04:55 +06:00"
+    }
+  },
+  "lastRunOn": "03/14/2025 00:04:55 +06:00"
+}
